@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WeCare is an online Life Coaching application that helps its users to sign up and log in to seek the guidance of famous Life Coaches. Users can search for a Life Coach based on specialty and can book an appointment within 7 days. They can also see upcoming appointments and can reschedule or cancel the appointments. Similarly, Life Coaches can also sign up and login and can see their upcoming schedule. 
 
 ## Available Scripts
 
